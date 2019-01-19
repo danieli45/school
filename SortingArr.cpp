@@ -281,5 +281,7 @@ int main()
     
     cout << "All Arrays have been sorted" << endl;
     
+    cout << "Which one is the best array in your opinion?" << endl;
+    
 }
     
