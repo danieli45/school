@@ -12,12 +12,12 @@
 using namespace std;
 //const int MAX = 8;
 //const int MAX = 16;
-const int MAX = 32;
+//const int MAX = 32;
 //const int MAX = 64;
 //const int MAX = 128;
 //const int MAX = 256;
 //const int MAX = 512;
-//const int MAX = 1024;
+const int MAX = 1024;
 //const int MAX = 2048;
 //const int MAX = 4096;
 //const int MAX = 8192;
@@ -278,6 +278,8 @@ int main()
     //display(data, 0, MAX-1);
     cout << "Bubblesort performed " << count << " array accesses" << endl;
     cout << endl;
+    
+    cout << "All Arrays have been sorted" << endl;
     
 }
     
